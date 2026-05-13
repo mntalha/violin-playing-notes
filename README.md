@@ -118,4 +118,4 @@ No setup needed. Everything is plain Markdown and a single HTML file.
 
 ## 📄 License
 
-Free to use for personal learning. Share it with fellow violinists! 🎶
+Free to use for personal learning. Share it with fellow violinists! 🎶🎻
