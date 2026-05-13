@@ -85,12 +85,20 @@ Looking down at your violin (scroll pointing up):
         │     │     │     │
   1st   A     E     B     F#         ← Index finger
         │     │     │     │
-  2nd   B     F#    C#    G#         ← Middle finger
+  2nd   B     F#    C#    G#         ← Middle finger (HIGH position)
         │     │     │     │
   3rd   C     G     D     A          ← Ring finger
         │     │     │     │
   4th   D     A     E     B          ← Pinky
 ```
+
+> ⚠️ **This shows the "high 2nd finger" pattern** — the default Suzuki Book 1
+> first-position map. All 2nd fingers are placed close to 3rd finger, giving
+> you sharps (F#, C#, G#). This matches keys like D Major and A Major.
+>
+> To play in C Major or A Minor, you use **low 2nd finger** instead
+> (2nd finger close to 1st), which gives you naturals (F, C, G).
+> See Section 6 for finger pattern details.
 
 > 🎯 **Notice:** 4th finger on one string = same note as the NEXT open string!
 > Example: 4th finger on G string = D = open D string.
@@ -101,19 +109,7 @@ Looking down at your violin (scroll pointing up):
 
 **C Major has NO sharps or flats.** All natural notes.
 
-Play it like this:
-
-```
-String:  G     G     G     G     D     D     D     D
-Finger:  open   1     2     3    open   1     2     3
-Note:     G     A     B     C     D     E     F     G
-                            ↑                       ↑
-                        (middle C)              (one octave up... 
-                                                 but wait, that's 
-                                                 not right!)
-```
-
-Actually, here's the **proper C Major scale starting on C**:
+The C Major scale starts on C (3rd finger, G string):
 
 ```
   Note:    C     D     E     F     G     A     B     C

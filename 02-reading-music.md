@@ -205,22 +205,15 @@ The two numbers at the start of a piece:
   Position: 1    2    3    4    5    6
 ```
 
-**Answers:**
-```
-  1 = G (line 2)
-  2 = A (below line 3, space 2... wait let me redo)
-```
-
-Better approach — just read left to right:
+**Answers (read left to right):**
 
 ```
-  Measure 1              Measure 2
-  ♩    ♩    ♩    ♩   |  𝅗𝅥         𝅗𝅥
-  G    A    B    C   |  D          E
-  
-  Play as:
-  G str  G str  G str  G str | G str    D str
-  open   1st    2nd    3rd   | 4th      1st
+  Position:  1      2      3      4      5      6
+  Note:      G      A      B      C      D      E
+  Staff:     line2  sp2    line3  sp3    line4  sp4
+  Code:      D3     A0     A1     A2     A3     E0
+  String:    D str  A str  A str  A str  A str  E str
+  Finger:    3rd    open   1st    2nd    3rd    open
 ```
 
 ---

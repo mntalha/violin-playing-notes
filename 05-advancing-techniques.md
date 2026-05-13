@@ -183,9 +183,9 @@ Vibrato = slight wobble of the finger that makes notes warm and expressive.
   B♭   C    D    E♭   F    G    A    B♭
   1    2    3    4    1    2    3    4
   A    A    A    A    E    E    E    E
-  lo1       ──  lo4  lo1       ──   lo4
+  lo1  lo2  ──  lo4  lo1  lo2  ──   lo4
   
-  (low 1st and low 4th fingers)
+  (low 1st, low 2nd, and low 4th fingers — everything pulled back!)
 ```
 
 ---

@@ -1,6 +1,6 @@
 # 🎻 Violin Playing Notes
 
-A complete beginner-to-intermediate violin learning guide with sheet music, fingerboard maps, and an **interactive note trainer app** — all in one place.
+A complete beginner-to-professional violin learning guide with sheet music, fingerboard maps, and an **interactive note trainer app** — all in one place.
 
 ---
 
@@ -14,6 +14,10 @@ A complete beginner-to-intermediate violin learning guide with sheet music, fing
 | [`04-intermediate-pieces.md`](04-intermediate-pieces.md) | Suzuki Book 1-2 pieces, slurs, dynamics, string crossings, 4th finger |
 | [`05-advancing-techniques.md`](05-advancing-techniques.md) | 3rd position, vibrato, shifting, double stops, bowing techniques |
 | [`06-staff-notation-pieces.md`](06-staff-notation-pieces.md) | All beginner pieces drawn on the actual 5-line staff with a self-test quiz |
+| [`07-intermediate-mastery.md`](07-intermediate-mastery.md) | Music theory, all keys, positions 2–5, 2-octave scales, arpeggios, tone production, études (Wohlfahrt, Kayser), injury prevention |
+| [`08-advanced-techniques.md`](08-advanced-techniques.md) | Higher positions (5–7+), 3-octave scales, advanced bowing (sautillé, ricochet, col legno), harmonics, advanced double stops, left-hand pizzicato |
+| [`09-repertoire-guide.md`](09-repertoire-guide.md) | Complete repertoire ladder from beginner to professional, études progression (Wohlfahrt → Paganini), orchestral excerpts, chamber music |
+| [`10-performance-and-professional.md`](10-performance-and-professional.md) | Practice methodology, sight-reading, memorization, stage performance, audition prep, orchestral playing, career paths |
 | [`violin-trainer.html`](violin-trainer.html) | **Interactive practice app** — open in any browser, no install needed |
 
 ---
@@ -76,6 +80,12 @@ Week 7-12   04-intermediate.md      Suzuki Book 1 pieces, dynamics, slurs
             violin-trainer.html     Fingerboard Tap, Blitz (all strings)
 
 Month 3+    05-advancing.md         3rd position, vibrato, double stops
+
+Month 6+    07-intermediate.md      All keys, positions 2-5, arpeggios, études
+            08-advanced.md          Higher positions, harmonics, advanced bowing
+
+Year 2+     09-repertoire.md        Concertos, solo Bach, chamber music
+            10-performance.md       Stage skills, auditions, professional path
 ```
 
 ---

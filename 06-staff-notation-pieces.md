@@ -300,13 +300,10 @@
   Note:    F#   F#   G    A            A    G    F#   E
   Code:    E1   E1   E2   E3           E3   E2   E1   E0
   Beat:    1    2    3    4            1    2    3    4
-
-  (F#=line5, G=above line5/space, A=above staff → 
-   wait, that's wrong for THIS octave!)
 ```
 
-**Important note about Ode to Joy:** This piece stays on the E string in
-the upper part of the staff. Here's a clearer breakdown:
+**Staff positions for this piece:** Ode to Joy stays on the E and A strings
+in the upper part of the staff:
 
 ```
   The Ode to Joy melody in D Major uses these positions:

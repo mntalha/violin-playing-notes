@@ -82,7 +82,7 @@
   Code:    E0   E1   E2   E3   (stay 1 octave for now)
 ```
 
-### D Minor (1 flat: B♭)
+### D Harmonic Minor (1 flat: B♭, raised 7th: C#)
 ```
   Note:    D    E    F    G    A    B♭   C#   D
   Finger:  0    1    2    3    0    1    2    3
@@ -94,7 +94,7 @@
            B♭ = low 1st finger on A string (A1 pulled back)
 ```
 
-### G Minor
+### G Harmonic Minor (2 flats: B♭, E♭, raised 7th: F#)
 ```
   Note:    G    A    B♭   C    D    E♭   F#   G
   Finger:  0    1    2    3    0    1    2    3
