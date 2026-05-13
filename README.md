@@ -8,16 +8,20 @@ A complete beginner-to-professional violin learning guide with sheet music, fing
 
 | File | Description |
 |------|-------------|
-| [`01-violin-basics.md`](01-violin-basics.md) | Open strings, fingerboard map, finger patterns, scales (C/D/G Major, A Minor), bowing basics, practice routine |
-| [`02-reading-music.md`](02-reading-music.md) | How to read the 5-line staff, note durations, rests, time signatures, key signatures, symbols |
-| [`03-beginner-pieces.md`](03-beginner-pieces.md) | 6 easy pieces with string/finger/code: Hot Cross Buns → Ode to Joy |
-| [`04-intermediate-pieces.md`](04-intermediate-pieces.md) | Suzuki Book 1-2 pieces, slurs, dynamics, string crossings, 4th finger |
-| [`05-advancing-techniques.md`](05-advancing-techniques.md) | 3rd position, vibrato, shifting, double stops, bowing techniques |
-| [`06-staff-notation-pieces.md`](06-staff-notation-pieces.md) | All beginner pieces drawn on the actual 5-line staff with a self-test quiz |
-| [`07-intermediate-mastery.md`](07-intermediate-mastery.md) | Music theory, all keys, positions 2–5, 2-octave scales, arpeggios, tone production, études (Wohlfahrt, Kayser), injury prevention |
-| [`08-advanced-techniques.md`](08-advanced-techniques.md) | Higher positions (5–7+), 3-octave scales, advanced bowing (sautillé, ricochet, col legno), harmonics, advanced double stops, left-hand pizzicato |
-| [`09-repertoire-guide.md`](09-repertoire-guide.md) | Complete repertoire ladder from beginner to professional, études progression (Wohlfahrt → Paganini), orchestral excerpts, chamber music |
-| [`10-performance-and-professional.md`](10-performance-and-professional.md) | Practice methodology, sight-reading, memorization, stage performance, audition prep, orchestral playing, career paths |
+| [`01-the-violin-and-bow.md`](01-the-violin-and-bow.md) | Parts of the violin, how to hold it, bow hold, making a clean sound (not scratchy!), posture, tuning, first open strings |
+| [`02-your-first-notes.md`](02-your-first-notes.md) | Left-hand fingers, notes on each string, fingerboard map, code system, first exercises and songs |
+| [`03-reading-music.md`](03-reading-music.md) | How to read the 5-line staff, note durations, rests, time signatures, key signatures, symbols |
+| [`04-scales-and-keys.md`](04-scales-and-keys.md) | What major and minor actually mean, whole/half steps, scale formulas, finger patterns, key signatures, all beginner scales |
+| [`05-beginner-pieces.md`](05-beginner-pieces.md) | 6 easy pieces with string/finger/code: Hot Cross Buns → Ode to Joy |
+| [`06-bowing-and-practice.md`](06-bowing-and-practice.md) | Bow technique, dynamics, articulation, fixing scratchy tone, practice methodology, musical expression |
+| [`07-staff-notation-pieces.md`](07-staff-notation-pieces.md) | All beginner pieces drawn on the actual 5-line staff with a self-test quiz |
+| [`08-intermediate-techniques.md`](08-intermediate-techniques.md) | Suzuki Book 1-2 pieces, slurs, dynamics, string crossings, 4th finger, scales (harmonic minor) |
+| [`09-advancing-techniques.md`](09-advancing-techniques.md) | 3rd position, vibrato, shifting, double stops, bowing techniques |
+| [`10-intermediate-mastery.md`](10-intermediate-mastery.md) | Music theory, circle of fifths, positions 2–5, 2-octave scales, arpeggios, tone production, études, injury prevention |
+| [`11-advanced-techniques.md`](11-advanced-techniques.md) | Higher positions (5–7+), 3-octave scales, advanced bowing (sautillé, ricochet, col legno), harmonics, advanced double stops |
+| [`12-repertoire-guide.md`](12-repertoire-guide.md) | Complete repertoire ladder from beginner to professional, études progression (Wohlfahrt → Paganini), orchestral excerpts, chamber music |
+| [`13-performance-and-professional.md`](13-performance-and-professional.md) | Practice methodology, sight-reading, memorization, stage performance, audition prep, career paths |
+| [`14-class-notes.md`](14-class-notes.md) | Notes from class sheet music — circled symbols explained with visual reference |
 | [`violin-trainer.html`](violin-trainer.html) | **Interactive practice app** — open in any browser, no install needed |
 
 ---
@@ -65,27 +69,30 @@ Open **`violin-trainer.html`** in your browser (just double-click it). No intern
 ## 📚 Suggested Learning Path
 
 ```
-Week 1-2    01-violin-basics.md     Open strings, first finger patterns
-            violin-trainer.html     Practice Code → Note, Note → Code
+Week 1      01-the-violin-and-bow   Hold violin & bow, clean tone, open strings
+            02-your-first-notes     Fingers on strings, first exercises
 
-Week 3-4    02-reading-music.md     Learn to read the staff
-            03-beginner-pieces.md   Hot Cross Buns, Mary Had a Little Lamb
-            violin-trainer.html     Staff → Code, Staff → Type
+Week 2-3    03-reading-music        Learn to read the 5-line staff
+            04-scales-and-keys      What major/minor means, beginner scales
+            violin-trainer.html     Code → Note, Note → Code
 
-Week 5-6    03-beginner-pieces.md   Twinkle Twinkle, Lightly Row, Ode to Joy
-            06-staff-notation.md    Read from the 5-line staff
-            violin-trainer.html     ⚡ Staff Blitz mode
+Week 4-6    05-beginner-pieces      Hot Cross Buns → Ode to Joy
+            06-bowing-and-practice  Dynamics, tone, how to practice
+            07-staff-notation       Read from the 5-line staff
+            violin-trainer.html     Staff → Code, Staff Blitz
 
-Week 7-12   04-intermediate.md      Suzuki Book 1 pieces, dynamics, slurs
+Week 7-12   08-intermediate         Suzuki Book 1 pieces, slurs, 4th finger
             violin-trainer.html     Fingerboard Tap, Blitz (all strings)
 
-Month 3+    05-advancing.md         3rd position, vibrato, double stops
+Month 3+    09-advancing            3rd position, vibrato, double stops
 
-Month 6+    07-intermediate.md      All keys, positions 2-5, arpeggios, études
-            08-advanced.md          Higher positions, harmonics, advanced bowing
+Month 6+    10-intermediate-mastery All keys, positions 2-5, études
+            11-advanced             Higher positions, harmonics, adv. bowing
 
-Year 2+     09-repertoire.md        Concertos, solo Bach, chamber music
-            10-performance.md       Stage skills, auditions, professional path
+Year 2+     12-repertoire           Concertos, solo Bach, chamber music
+            13-performance          Stage skills, auditions, professional path
+
+Ongoing     14-class-notes          Your teacher's markings explained
 ```
 
 ---
